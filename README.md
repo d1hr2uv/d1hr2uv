@@ -1,16 +1,17 @@
-### Hi there 👋
+# Dhruba Patra 🧬
 
-<!--
-**d1hr2uv/d1hr2uv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Location**: Kolkata, India  
+🏫 **Institution**: Indian Association for the Cultivation of Science (IACS)  
+🎓 **Program**: Masters Student  
 
-Here are some ideas to get you started:
+## About
+I am currently a Masters student at IACS, Kolkata 🇮🇳, focusing on leveraging deep learning architectures in the fields of drug discovery and genomics. My academic and research pursuits are driven by a passion for understanding and innovating at the intersection of technology and life sciences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- 🤖 Deep Learning
+- 💊 Drug Discovery
+- 🧬 Genomics
+
+## Contact
+- 📧 Email: smcsdp3006@iacs.res.in
+- LinkedIn: [Insert LinkedIn Profile Here]
