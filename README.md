@@ -10,14 +10,11 @@ Welcome to my profile! I'm Dhruba, a dedicated Masters student at IACS, Kolkata,
 
 ## 🌐 Interests
 - 🧠 **Deep Learning**: Advancing the capabilities of AI to understand complex patterns and improve predictive models in healthcare.
-- 💡 **Drug Discovery**: Utilizing computational methods to accelerate the discovery of new therapeutics and understand disease mechanisms.
-- 🧬 **Genomics**: Harnessing the power of genomic data to unlock mysteries of biology and contribute to personalized medicine.
 - 🤝 **Collaboration**: Engaging with like-minded peers and experts to foster knowledge exchange and drive collective progress.
 
 ---
 
 ## 📬 Contact Me
 - 📧 **Email**: smcsdp3006@iacs.res.in  
-
 Let's embark on a journey of discovery and innovation together! 🌠
 
